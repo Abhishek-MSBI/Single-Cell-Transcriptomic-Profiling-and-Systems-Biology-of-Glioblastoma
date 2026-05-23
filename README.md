@@ -1,7 +1,6 @@
 # Single-Cell Transcriptomic Profiling and Systems Biology of Glioblastoma
 
 **Author:** Abhishek S R  
-**Organization:** Sequensolutions  
 **Domain:** Bioinformatics, Cancer Genomics, Single-Cell RNA-seq  
 
 ## Project Overview
